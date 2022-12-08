@@ -1,0 +1,39 @@
+.header {
+    font-weight: bold;
+    padding: 6px ;
+    text-align: center;
+    width: 100%;
+    background: rgb(13, 86, 93);
+    color: antiquewhite;
+    font-size: 30px;
+  }
+  body {
+    /* width: 100%; */
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  .footer{
+      background: rgb(13, 86, 93);
+      box-shadow: 0 1px 1px 0 rgba(29, 48, 106, 0.12);
+      box-sizing: border-box;
+      width: 100%;
+      font: bold 16px sans-serif;
+    text-align: center;
+      overflow: hidden;
+    color: antiquewhite;
+  }
+  
+  /* b {
+    color: red;
+  }  */
+  table{
+    width: 100%;
+    /* border-collapse: collapse; */
+    background-color:antiquewhite;
+  }  
+  th{
+  background-color: beige;
+  }

@@ -1,0 +1,27 @@
+<table border="1">
+  <tr>
+    <th>plot</th>
+    <th>runtime</th>
+    <th>poster</th>
+    <th>title</th>
+    <th>lastupdated</th>
+    <th>year</th>
+    <th>countries</th>
+    <th>votes</th>
+    <th>um_mflix_comments</th>
+  </tr>
+  {{#each data}}
+    <tr>
+      <td>{{this.plot}}</td>
+      <td>{{ this.runtime }}
+      </td>
+      <td>{{this.poster}}</td>
+      <td>{{this.title}}</td>
+      <td>{{this.lastupdated}}</td>
+      <td>{{this.year}}</td>
+      <td>{{this.countries}}</td>
+      <td>{{this.votes}}</td>
+      <td>{{this.um_mflix_comments}}</td>
+    </tr>
+  {{/each}}
+</table>

@@ -2,7 +2,7 @@
   "name": "webprojectfinal",
   "version": "1.0.0",
   "description": "Welcome to the node API created by Jenish and Sujitha",
-  "main": "app.js",
+  "main": "routes/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

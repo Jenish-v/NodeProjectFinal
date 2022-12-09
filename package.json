@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jenish Vaghela",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -23,14 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jenish-v/NodeProjectFinal.git"
+    "url": "git+https://github.com/Jenish-v/WebProjectFinal.git"
   },
-  "keywords": [
-    "FInal",
-    "Project"
-  ],
   "bugs": {
-    "url": "https://github.com/Jenish-v/NodeProjectFinal/issues"
+    "url": "https://github.com/Jenish-v/WebProjectFinal/issues"
   },
-  "homepage": "https://github.com/Jenish-v/NodeProjectFinal#readme"
+  "homepage": "https://github.com/Jenish-v/WebProjectFinal#readme"
 }

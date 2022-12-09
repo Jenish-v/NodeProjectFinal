@@ -1,12 +1,12 @@
 {
   "name": "webprojectfinal",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to the node API created by Jenish and Sujitha",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jenish Vaghela",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
@@ -20,5 +20,17 @@
     "mongoose": "^6.8.0",
     "node": "^19.2.0",
     "table": "^6.8.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenish-v/NodeProjectFinal.git"
+  },
+  "keywords": [
+    "FInal",
+    "Project"
+  ],
+  "bugs": {
+    "url": "https://github.com/Jenish-v/NodeProjectFinal/issues"
+  },
+  "homepage": "https://github.com/Jenish-v/NodeProjectFinal#readme"
 }
